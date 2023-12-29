@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato:wght@400;700&family=Sora:wght@300;800&display=swap');
+
+header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: transparent;
+    z-index: 1;
+    margin: 30px auto;
+ 
+}
+
+section .wrapper,footer .wrapper, header .wrapper{
+    max-width: 1530px !important;
+    margin: 0 auto;
+}
+
+section img{
+    width: 100%;
+    max-width: 100%;
+}
+
+section{
+    padding: 100px 0;
+}
+
+section a{
+    color: #194887;
+    font-family: Lato;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+section h1{
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px;
+    text-transform: capitalize;
+}
+section h2{
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+section h3{
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+
+section h4{
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: capitalize;
+}
+
+section h5{
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+section p{
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
